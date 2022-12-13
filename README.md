@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devBK84
-- 👀 I’m interested in road bike
+- 👀 I’m interested in road bike, cooking and Surfing
 - 🌱 I’m currently learning java
 <!---
 devBK84/devBK84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
