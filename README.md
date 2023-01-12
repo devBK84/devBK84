@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @devBK84<br>👀 I’m interested in road bike, cooking and surfing<br>🌱 I’m currently learning java
+👋 Hi, I’m @devBK84 or Sam<br>👀 I am an enthusiastic road cyclist, food nerd and love technical challenges.<br>🌱 I’m currently learning java.<br>
 
 
 ## 🌐 Socials:
