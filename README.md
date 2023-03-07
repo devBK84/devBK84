@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @devBK84 or Sam<br>👀 I am an enthusiastic road cyclist, food nerd and love technical challenges.<br>🌱 I’m currently learning java.<br> 💻 Open for a new challenge - Jr. Full-Stack Developer | Projectmanager | IT-Consultant 
+👋 Hi, I’m @devBK84 or Sam<br>👀 I am an enthusiastic road cyclist, food nerd and love technical challenges.<br>🌱 I’m currently learning java.<br>  
 
 
 ## 🌐 Socials:
